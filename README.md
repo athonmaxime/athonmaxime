@@ -1,16 +1,6 @@
 <h1 align="center">Salut 👋, je suis ATHON Maxime</h1>
 <h3 align="center">Un développeur frontend et backend passionné du Togo</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=athonmaxime&label=Profile%20views&color=0e75b6&style=flat" alt="athonmaxime" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=athonmaxime" alt="athonmaxime" />
-  </a>
-</p>
-
 - 📫 Comment me joindre : **athonmaxime@gmail.com**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
