@@ -53,13 +53,7 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athonmaxime&show_icons=true&locale=en&layout=compact" alt="athonmaxime" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athonmaxime&show_icons=true&locale=en" alt="athonmaxime" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athonmaxime" alt="athonmaxime" />
