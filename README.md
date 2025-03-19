@@ -1,6 +1,10 @@
 <h1 align="center">Salut 👋, je suis ATHON Maxime</h1>
 <h3 align="center">Un développeur frontend et backend passionné du Togo</h3>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Welcome+on+my+GitHub+!;I'm;+ATHON+B.+Maxime+;I'm+a+passionate+developer!;Technologies:+PHP,+Java,+React,+JavaScript;Always+learning+and+creating+✨)
+
+
+
 - 📫 Comment me joindre : **athonmaxime@gmail.com**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
